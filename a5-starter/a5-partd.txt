@@ -1,0 +1,14 @@
+A5 Part D: Procedural SQL Applications in the Final Project
+Collaboration: (Optional, include student names and emails)
+Final Project Topic: TODO
+
+Part D Answers:
+UDF(s): TODO: Name(s) with input/output, e.g. <name>(<[inputs]>) -> <return type>)
+  * TODO: Overview and justification...
+
+Procedure(s): Name(s) with input/output, e.g. <name>(<[inputs]>) -> any output)
+  * TODO: Overview and justification...
+
+* Trigger(s): Name(s) and type of trigger (e.g. row-based BEFORE UPDATE trigger)
+  * TODO: Overview and justification...
+
